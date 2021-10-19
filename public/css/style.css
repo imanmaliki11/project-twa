@@ -1,0 +1,24 @@
+.bg-first-color {
+    background: #348BC9;
+}
+
+.active-nav {
+    border-bottom: 2px solid red;
+}
+
+.nav-item:hover {
+    background: #429ada;
+    border-radius: 3px;
+}
+
+.nav-item {
+    padding-inline: 3px;
+}
+
+.rounded-bottom-lg {
+    border-radius: 0px 0px 10pt 10pt;
+}
+
+.text-justify {
+    text-align: justify;
+}
