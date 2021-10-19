@@ -46,6 +46,9 @@
     </figure>
 
     <div class="h4 text-center my-3">Our Service</div>
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam dolore vero sapiente voluptates? Explicabo illo iusto aliquam provident in alias officiis, sapiente fugiat deleniti sint sed, odit dicta, fugit ipsam error molestias tenetur itaque! Optio voluptatum, hic fuga, sit animi temporibus, quos quia placeat in minima aspernatur deleniti non? Voluptates.
+    </p>
 
 </div>
 
