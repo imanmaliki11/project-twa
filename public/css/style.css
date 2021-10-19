@@ -1,17 +1,15 @@
-.bg-first-color {
-    /* background: #348BC9; */
-    /* background: #348bc977; */
-    background: #373B44;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #78a9f7d7, #ffffff3d);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #78a9f7d7, #ffffff3d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-    transition: background-color 555ms linear;
+.bg-first {
+    background: #348BC9;
 }
 
 nav {
     position: fixed !important;
     z-index: 1099 !important;
     width: 100vw;
+    background: #373B44;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #f7c47886, #ffffff00);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #f7c47886, #ffffff00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transition: background-color 555ms linear;
 }
 
 .scrolled {
